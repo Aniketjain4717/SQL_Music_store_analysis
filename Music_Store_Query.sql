@@ -65,12 +65,6 @@ WHERE track_id IN(
 )
 ORDER BY email;
 
-
-/* Method 2 */
-
-
-
-
 /* Q2: Let's invite the artists who have written the most rock music in our dataset. 
 Write a query that returns the Artist name and total track count of the top 10 rock bands. */
 
